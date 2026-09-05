@@ -11,3 +11,9 @@
 ### <ins>Class FileInfo</ins>
 
 - Instance members (you need to instantiate a FileInfo class to use its methods).
+
+### <ins>FileStream</ins>
+
+- Provides a stream associated with a file, enabling read and write operations.
+
+- Support for binary data.
