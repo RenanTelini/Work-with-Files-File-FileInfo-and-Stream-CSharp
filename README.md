@@ -17,3 +17,9 @@
 - Provides a stream associated with a file, enabling read and write operations.
 
 - Support for binary data.
+
+### <ins>StreamReader</ins>
+
+- It is a stream capable of reading characters from a binary stream (e.g., FileStream).
+
+- Support for text-format data.
