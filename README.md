@@ -46,3 +46,25 @@
 ### <ins>Path</ins>
 
 - Performs operations on strings containing information about files or folders.
+
+### <ins>File - Exercise01</ins>
+
+#### Read the path of a .csv file containing data about sold items. Each item has a name, unit price, and quantity, separated by commas.
+
+#### The program should generate a new file named summary.csv, located in a subfolder called out inside the original source file's directory.
+
+#### The output file should contain only the item name and its total value (unit price multiplied by quantity), as shown in the example.
+
+#### Example:
+
+#### Source file:
+TV LED,1290.99,1<br>
+Video Game Chair,350.50,3<br>
+Iphone X,900.00,2<br>
+Samsung Galaxy 9,850.00,2
+
+#### Output file (out/summary.csv):
+TV LED,1290.99<br>
+Video Game Chair,1051.50<br>
+Iphone X,1800.00<br>
+Samsung Galaxy 9,1700.00
