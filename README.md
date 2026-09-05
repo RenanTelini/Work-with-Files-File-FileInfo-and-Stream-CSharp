@@ -42,3 +42,7 @@
 - Directory - Static members (simple, but performs security check for each operation).
 
 - DirectoryInfo - Instance members.
+
+### <ins>Path</ins>
+
+- Performs operations on strings containing information about files or folders.
