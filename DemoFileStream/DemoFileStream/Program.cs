@@ -1,4 +1,4 @@
-﻿namespace DemoFileInfo;
+﻿namespace DemoFileStream;
 
 class Program
 {
