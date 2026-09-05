@@ -34,3 +34,11 @@
 
 - It is a stream capable of writing characters from a binary stream (e.g., FileStream).
 - Supports data in text format.
+
+### <ins>Directory and DirectoryInfo</ins>
+
+- Operations with folders (create, enumerate, get files, etc.)
+
+- Directory - Static members (simple, but performs security check for each operation).
+
+- DirectoryInfo - Instance members.
