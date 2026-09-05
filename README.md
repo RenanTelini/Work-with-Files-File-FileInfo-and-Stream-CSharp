@@ -29,3 +29,8 @@
 - Simplified syntax that ensures IDisposable objects are closed.
 
 - IDisposable objects are NOT managed by the CLR. They must be closed manually. Examples: Font, FileStream, StreamReader, StreamWriter."
+
+### <ins>StreamWriter</ins>
+
+- It is a stream capable of writing characters from a binary stream (e.g., FileStream).
+- Supports data in text format.
